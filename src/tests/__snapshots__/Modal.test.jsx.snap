@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal component should render null 1`] = `null`;
+
+exports[`Modal component should renders div with close modal 1`] = `"<div class=\\"overlay-popup\\"></div><div class=\\"modal-styles\\"><div><button type=\\"button\\">Close</button></div></div>"`;

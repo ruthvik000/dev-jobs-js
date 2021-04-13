@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Job Info component should match the snapshot with results 1`] = `"<div><div class=\\"job-info\\"><img class=\\"w3-round-small job-info-image\\" style=\\"float:left\\" src=\\"xyz\\" alt=\\"Company 1\\" height=\\"100px\\" width=\\"100px\\"/><div class=\\"jobsite\\"><h2 class=\\"job-details-title\\">Company 1</h2><a target=\\"_blank\\" rel=\\"noopener noreferrer\\"><button class=\\"company-url-button\\">Company Site</button></a></div></div><div class=\\"job-description-body\\"><a target=\\"_blank\\" rel=\\"noopener noreferrer\\"><button class=\\"apply-now-button\\">Apply Now</button></a><p class=\\"days-type\\">1 month ago.Full Time</p><h3 class=\\"job-title\\">Java Developer</h3><p class=\\"job-location\\">New York</p><p class=\\"job-description\\">Need an experienced developer with 5 years of real-time experience.</p></div><div class=\\"how-to-apply\\"><h5>How to Apply</h5><p>Visit Careers Website</p></div></div>"`;
+
+exports[`Job Info component should match the snapshot with zero results 1`] = `null`;
